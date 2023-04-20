@@ -14,7 +14,13 @@
 }
 
 body {
-    background-color: #C0DBEA;
+    /* CSS HEX */
+    /* --alice-blue: #D5E1EFff; */
+    background-color: #D5E1EFff;
+    /* --alice-blue-2: #D5E1EFff;
+    --azure: #2B7DFAff;
+    --white: #FEFEFEff; */
+    /* background-color: rgb(225, 238, 255); */
 }
 
 body p {
@@ -27,7 +33,7 @@ body p {
 .Qrcode_section {
     height: 100%;
     width: 100%;
-    margin-top: 10rem;
+    margin-top: 5rem;
 }
 
 .container {
